@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "canvas-bot-346704",
+  "private_key_id": "1e59824eea32ba18581ce803c959c5d1c037f72b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLyjUZkUtJ0j+r\n1g1o8ARud8aVIBvI4UE6bocy97PiIvp3HeO1lQcQw2n4a+tL0jZ52jiyTdsj9ZsK\nj+J0NjzC0cVr9wjEWtdJUGtx6xzURr0LnN7/bUNdBGmXxYWpHHnpAr9YOAwjYgax\nWow6GF3Ie2FxHXrPfzFrHURAsmJPK2Mcr+9JhY6Md5H0MSnPaPjjFnsfQjxj/YWW\nlwtMSVK6NnAOlNS2wRdxzr++aZ4hVzV3zSJMbcZqTageGyYFVF/jUqsIhgZtvdBX\ntsBUyDlZjE1V0luwox8wnIb1FOJ2xfVgTkC0OfXKb8tcFMF5yth2Og3as90Kq+Lh\nwccQWC+VAgMBAAECggEABZh6R8bxCchfnjDE8n4wqPXZ+otEqAnjWB7j0HbztgBe\n3zlvYLOEW6X5+WvBLLZLb6IZz2+K1lxukuYrgiRhG7pV0OaaE4YpBibSpHCfvIZq\nt3BpwRq3cEzoN1YhmuigwlCkf2AemTQeWe1SD2BO5uvYW5pDHoJwEXBeyOX9BA5w\n4SSdE7obnIHbu6/3i+UJpPwH/ooIi1sa9zpUbWWJ8u25KaijAw/hD1cSB0mXtdci\nMEO4YskpEuPnDpY9ccaUJcM6dvNol5ony0hrJuxRBYKT1K8nnZ/o5BBvRJSEOSeO\nZKwdP/Q17VPxndTO79yB0VxC8qd3utHTyshx2HPmOwKBgQDogvCt/3td0+cpSiK9\n90Hid7OVcdAeot4MU7IOZY5TjzkSwN3V6JcPE8VZu17Hu3nmvpTcAAw7SIe0rB8g\nwuCWs/kh3R4rS7zY4gzcNTxF1C7tY8Yphnzy/59qckPqwDpLfPeFXen8I0di0ra6\n2D88pM822jvo+FW6K79ZrcUnlwKBgQDgYHzbzuLOi0IPPwwKaiwh3k8N/6tLJtGc\nWkEmw+GSV6Ko3IDE8plDlpE0vQhG770Cjo3lD8VcLafMicVjOKIIKInxkG33lWn4\ndte1aatmIzCn9r6MrKuu3MtqLw4GoFAey3AQwXDs/HZN9zQ74khLGnUcJyz/e5ok\n7OOJx+answKBgQDV2LhsD/HzFhYhj6HsfiEGnXl6FbeItdrsE35MZ3NDvxKLAQAG\n4Wkt4M09/mrp4K/5XYej4Bdf3xGRRk1K4HGXqeeVEb3RrFMAVsflMMFCqCiRBZcY\nUi1RgXGpgXadzjbPfxxYeUvfLsNVTN/rcUCYEizTElzPpLeUBvBzFrOh+QKBgQDa\nAIVvn4w4N4+AdrZBLDUi1vciV8VbKCVCb2KbwnfZEvKEdHFcaYVF6PW+Mufm3Cld\nYZo182PDEszU6wrwQ2cS3ChinvxpMC+c7ALbTQbuHsS4fQFYdq/8HqQ4z+0lvP77\nXJfOf9QzPXvIdqW2hT3OUq90IhATTklPFSZiiOnvBwKBgQDCmEdFL08IZbg9+Z2o\n9Huu4G373AlvlrwRyhFA0O3Fizfc4CepbhdRjvJzpkk0kWL3N+hIYBVNSL4/FTUM\n2lkcZabZR56e8pE/JxtuXeuxAqWMu0GIZDua9PqCyobBmNbbGaP5ajGm75k+L41I\n7tzR84iPqiofMbIBDGTZOtnASw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-10chatbotserviceaccount@canvas-bot-346704.iam.gserviceaccount.com",
+  "client_id": "103339503597215338488",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-10chatbotserviceaccount%40canvas-bot-346704.iam.gserviceaccount.com"
+}
